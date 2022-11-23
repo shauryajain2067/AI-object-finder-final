@@ -1,0 +1,17 @@
+.heading{
+    margin:0;
+    width:100%;
+    font-size:23px;
+}
+.notes{
+    font-size:18px;
+    color:black;
+    font-weight:bold;
+}
+
+canvas{
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow:5px 5px 20px black;
+    margin-top:135px;
+}
